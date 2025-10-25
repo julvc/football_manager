@@ -1,4 +1,3 @@
-```markdown
 # ⚽ TeamOptimizer
 
 Sistema inteligente para sugerir alineaciones titulares en fútbol usando Machine Learning.
